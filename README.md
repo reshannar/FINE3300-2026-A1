@@ -7,4 +7,8 @@ I created a dropdown list like option to select the specific date the user would
 
 Part 2: 
 
-For the AI portion, the prompt I used, which is commented within the code the AI created, was the way that I interpreted the question and how it should be solved. 
+For the AI portion, the prompt I used, which is commented within the code the AI created, was the way that I interpreted the question and how it should be solved. I tried to be as specific about the requirements and method as possible. I used Claude in order to create the program.
+
+Interpretation of Results: 
+
+The program that Claude created seems a lot more involved than the one that I created. My program appears to be much shorter and simpler, which could be good or bad. Simpler code is easier to process, easier to fix, and 
