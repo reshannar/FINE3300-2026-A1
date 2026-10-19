@@ -51,7 +51,7 @@ class ExchangeRate:
         self.to_currency = to_currency
         self.rate = rate
         self.amount = amount
-        
+     #does the conversion using the rate determined outside of the class   
     def convert(self):
         converted_amount = self.amount * self.rate
         return converted_amount
