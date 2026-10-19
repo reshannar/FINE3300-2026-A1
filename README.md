@@ -11,4 +11,4 @@ For the AI portion, the prompt I used, which is commented within the code the AI
 
 Interpretation of Results: 
 
-The program that Claude created seems a lot more involved than the one that I created. My program appears to be much shorter and simpler, which could be good or bad. Simpler code is easier to process, easier to fix, and 
+The program that Claude created seems a lot more involved than the one that I created. My program appears to be much shorter and simpler, which could be good or bad. Simpler code is easier to process and easier to fix. The Vibe Coding also has a much more complex and in-depth class and methods. The comments used are much more sparse as well compared to my version which is largely due to my habit of commenting out code that doesn't work so I know what I've tried. 
